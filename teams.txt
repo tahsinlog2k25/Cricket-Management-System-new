@@ -1,0 +1,5 @@
+Bangladesh Tigers|Rahim Uddin|Tamim,Liton,Shanto,Mushfiq,Shakib,Mahmudullah,Afif,Mehidy,Taskin,Mustafizur,Shoriful,Nasum,Hasan,Soumya,Towhid
+India Lions|Arjun Mehta|Rohit,Gill,Kohli,Iyer,Pant,Hardik,Jadeja,Ashwin,Bumrah,Shami,Siraj,Kuldeep,Rahul,Surya,Axar
+Australia Kangaroos|Mark Taylor|Warner,Head,Smith,Labuschagne,Maxwell,Carey,Stoinis,Cummins,Starc,Hazlewood,Zampa,Green,Marsh,Inglis,Abbott
+England Knights|James Walker|Roy,Buttler,Root,Brook,Stokes,Moeen,Livingstone,Curran,Archer,Wood,Rashid,Bairstow,Salt,Woakes,Willey
+Pakistan Falcons|Imran Siddiqui|Fakhar,Babar,Rizwan,Iftikhar,Shadab,Nawaz,Asif,Shaheen,Haris,Naseem,Abrar,Saim,Agha,Azam,Imam

@@ -1,0 +1,14 @@
+# Compiled output
+cricket
+cricket.exe
+*.o
+*.out
+
+# Generated at runtime
+match_history.txt
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
